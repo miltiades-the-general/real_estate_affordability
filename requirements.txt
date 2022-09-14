@@ -1,0 +1,11 @@
+streamlit
+plost
+holoviews
+hvplot
+python-dotenv
+pandas
+numpy
+pathlib
+matplotlib
+geoviews 
+cartopy
